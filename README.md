@@ -1,5 +1,4 @@
-# Sales Analysis for Regional Performance
-
+# Financial KPI Analysis
 The project aims to analyze sales data to assess the regional performance of a company. The objective is to understand sales trends, assess the impact of discounts, and provide insights for optimizing sales strategies across different regions.
 
 ## About the Dataset:
